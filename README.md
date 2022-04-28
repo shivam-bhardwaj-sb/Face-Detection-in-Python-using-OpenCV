@@ -74,3 +74,5 @@ Haar Classifier and Local Binary Pattern(LBP) classifier.
 * [4. Using 'Cascade of Classifiers'](https://medium.com/p/5c27e521c19a#93)
 [Face Detection with OpenCV-Python](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#a843)
 
+#Learning
+
